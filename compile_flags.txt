@@ -1,0 +1,8 @@
+-std=c23
+-Wall
+-Wextra
+-Wno-format
+-Wno-sign-compare
+-Wconversion
+-I
+raylib/include
